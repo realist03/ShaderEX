@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Custom_6.4_SpecularVertex
+  m_Shader: {fileID: 4800000, guid: 42bcaae820c241148b6f80e6c65324a1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Gloss: 120.9
+    m_Colors:
+    - _Color: {r: 0.5660378, g: 0.33908868, b: 0.33908868, a: 1}
+    - _Diffuse: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
+    - _Specular: {r: 1, g: 0.8143113, b: 0, a: 1}
